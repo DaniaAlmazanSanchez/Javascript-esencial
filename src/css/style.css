@@ -1,0 +1,19 @@
+.boton-this{
+   
+    width:200px;
+    height:50px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(59, 198, 253);
+    color: rgb(10, 10, 10);
+    padding:2px;
+    margin: 0 auto;
+    text-align:center;
+    bottom:out-of-range;
+    box-shadow: 5px 5px 5px rgb(10, 124, 168);
+    border-radius: 9px 5px ;
+    border-color: transparent;
+    cursor: pointer;
+
+    
+}
